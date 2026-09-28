@@ -1,0 +1,10 @@
+checkpoint: path/to/model/model.ckpt
+ 
+lead_time: hours
+ 
+date: YYYY-MM-DDTHH
+input:
+  mars: #in Atos is possible to download from mars
+    class: ea # ea or od
+output:
+  grib: path/output/file/output.grib
