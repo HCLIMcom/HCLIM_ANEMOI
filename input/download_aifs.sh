@@ -56,7 +56,7 @@ retrieve,
 
 # --- Request 2a: Soil variables (swvl1/2, stl1/2) - 18Z (Base Day) ---
 retrieve,
-  class     = od,
+  class     = ea,
   stream    = oper,
   type      = an,
   expver    = 1,
@@ -71,7 +71,7 @@ retrieve,
 
 # --- Request 2b: Soil variables (swvl1/2, stl1/2) - 00Z (Next Day) ---
 retrieve,
-  class     = od,
+  class     = ea,
   stream    = oper,
   type      = an,
   expver    = 1,
