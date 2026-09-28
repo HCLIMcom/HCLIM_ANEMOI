@@ -77,7 +77,7 @@ pip install flash_attn==2.7.3
 
 You can interactively test the setup using:
 ```bash
-ecinteractive
+ecinteractive -g
 ```
 
 ---
